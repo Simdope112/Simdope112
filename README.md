@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Simdope112
+- 👋 Hi, I’m @Navan
 - 👀 I’m interested in GIT HUB AND CODING
 - 🌱 I’m currently learning CODING ON GITHUB
 - 💞️ I’m looking to collaborate on BEING TAUGHT GITHUB
